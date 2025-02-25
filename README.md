@@ -4,7 +4,7 @@ This Gears contains `.gitlab-ci.yml` that outputs a greeting.
 This Gear is an example of git-system-follower Gear 
 which uses default package api for `init.py`, `delete.py`.
 
-## Extra parameters:
+## Extra parameters
 
 | Name   | Description                                         | Default  | Example             |
 |--------|-----------------------------------------------------|----------|---------------------|
